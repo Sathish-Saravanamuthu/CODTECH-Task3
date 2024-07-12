@@ -57,6 +57,7 @@ This project implements a UART (Universal Asynchronous Receiver/Transmitter) mod
   - Documentation files, including this README.md.
  
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/ad48c49e-f5af-42e0-bd71-59846bd87848)
+![WhatsApp Image 2024-07-12 at 10 20 18](https://github.com/user-attachments/assets/e82962c0-7955-40ad-95f8-e3db950a5746)
+
 
 
